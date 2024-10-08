@@ -31,3 +31,7 @@
 |Black betty |Ramjam |Metal |1977 |been made lots by lots of people|
 |Carry on my wayward son |american rock band kansas |metal |1976 |played in supernatural |
 |cell block tango |Chicago the musical|musical |2002|has multiple meanings |
+
+<print (hello world)>
+
+<nice is what you say when you have nothing else to say about someone>
