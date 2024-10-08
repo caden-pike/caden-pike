@@ -24,3 +24,10 @@
 
 
 ![queen](https://github.com/caden-pike/caden-pike/blob/main/queen.png)
+
+
+|song name |Artist |Genre |Year released |Notes |
+|- |- |- |- |- 
+|Black betty |Ramjam |Metal |1977 |been made lots by lots of people|
+|Carry on my wayward son |american rock band kansas |metal |1976 |played in supernatural |
+|cell block tango |Chicago the musical|musical |2002|has multiple meanings |
